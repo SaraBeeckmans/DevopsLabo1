@@ -25,8 +25,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
-            "es5BrowserSupport": true
+            "scripts": []
           },
           "configurations": {
             "production": {
@@ -58,8 +57,7 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "Labo1:build",
-            "host": "0.0.0.0"
+            "browserTarget": "Labo1:build"
           },
           "configurations": {
             "production": {
